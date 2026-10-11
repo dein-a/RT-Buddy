@@ -1,0 +1,13 @@
+{
+  "id": "17fb9145-8800-4f94-ba9a-535652222619",
+  "name": "RT Buddy",
+  "path": "RT Buddy",
+  "board": "esp32",
+  "boardId": "esp32-devkit-v1",
+  "boardFqbn": "esp32:esp32:esp32",
+  "createdAt": 1791710544844,
+  "updatedAt": 1791711350517,
+  "schemaVersion": 1,
+  "exportedAt": "2026-10-11T09:36:22.184Z",
+  "exportedBy": "tinkered-app/1.0"
+}
